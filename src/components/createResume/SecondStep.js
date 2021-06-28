@@ -28,7 +28,7 @@ const SecondStep = (props) => {
 					<div className="body" style={{ marginTop: '50px' }}>
 						<form>
 							<FormGroup>
-								<Label>Include 2-3 clear sentences about your overall experience</Label>
+								<Label>Include 2-3 clear sentences about your overall experience.</Label>
 								<TextArea
 									rows="8"
 									name="summary"
